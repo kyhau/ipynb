@@ -21,3 +21,6 @@ cp jupyter_notebook_config.py %USERPROFILE%\.jupyter\jupyter_notebook_config.py
 %COMSPEC% /K C:\Python27\Scripts\jupyter.exe notebook
 ```
 
+## Use nbviewer to view the notebook
+
+http://nbviewer.jupyter.org/
