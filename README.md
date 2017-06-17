@@ -15,8 +15,7 @@ pip install jupyter
 cp jupyter_notebook_config.py %USERPROFILE%\.jupyter\jupyter_notebook_config.py
 ```
 
-3. Create a window shortcut
-
+3. Create Windows shortcut (e.g. Python 2.7 Target)
 ```
 %COMSPEC% /K C:\Python27\Scripts\jupyter.exe notebook
 ```
